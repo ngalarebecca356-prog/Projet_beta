@@ -1,7 +1,3 @@
--- =============================================================
--- PROJET-MANAGER — Script de création des tables
--- Reconstruit EXACTEMENT à partir de tes captures d'écran.
--- =============================================================
 
 SET FOREIGN_KEY_CHECKS = 0;
 
